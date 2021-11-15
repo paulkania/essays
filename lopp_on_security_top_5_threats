@@ -1,0 +1,92 @@
+forbes nov ~14 2021
+
+Jameson covers cryptocurrency and is the CTO & cofounder of Casa.
+
+Detective Identifying Insider Threat
+
+Identifying a threat needle in a haystack. getty
+
+Heavy is the head that wears the crown. As the world’s preeminent digital bearer asset, owning Bitcoin comes with a different set of security risks than owning traditional assets. To develop a personal security plan, you should strive to consider all conceivable threats and prioritize accordingly.
+
+Before you can adequately prepare, however, you must first assess the danger. Threat modeling is a process I perform regularly as the co-founder and CTO of a Bitcoin security provider.
+
+I recently conducted a straw poll that asked “What is the biggest threat to your Bitcoin?” The poll received more than 1,600 votes, and though it is far from scientific, it’s an interesting glimpse into how Bitcoiners assess security threats. In this first edition of Lopp’s Threat Index, I cover each individual threat from both a historical and practical perspective. Consider this a primer for modeling your own unique security risks.
+Accidental Loss
+
+Lopp Rank: 1st
+
+Poll Rank: 1st (39.8%)
+
+Accidental loss is the most pernicious threat to your Bitcoin. In the protocol’s early days, it was very easy to lose Bitcoin, and many people did. It’s estimated that about 4 million Bitcoin have been lost, nearly a fifth of all the Bitcoin that will ever exist.
+
+Today, some of that risk has been mitigated with technology, such as metal seed storage devices and multisignature functionality. But accidents still happen. Many people don’t actively back up their most important data. If you’re not careful, a forgotten password or misplaced wallet could wipe out your holdings.
+MORE FOR YOU
+Blockchain Developer Alchemy Raises $250 Million Series C At $3.5 Billion Valuation
+DeFi: Who Will Build The Future Of Finance?
+How A 19-Person Cryptocurrency Startup Surpassed Coinbase In Daily Trading Volume
+
+How to prepare: Start by backing up your seed phrase (offline!) or using a multisig arrangement if you have a significant amount of Bitcoin. Once you’ve created and tested your backups, check them at least annually.
+
+It’s also important to pay close attention during major life changes, such as moving or switching over to a new phone or computer. These are instances where it makes sense to have extra redundancy in your Bitcoin security plan.
+Digital Theft/Attack
+
+Lopp Rank: 2nd
+
+Poll Rank: 3rd (19.6%)
+
+Digital theft is a continuously evolving threat in Bitcoin security, and it underscores the importance of self-custody. In the early days, exchanges and custodians were major hacking targets because most people left their Bitcoin there.
+
+Today, improved cold storage practices by large custodians have shifted the threat of digital attacks to individual account holders. Rather than trying to hack an exchange’s wallet, bad actors deploy sophisticated “spear-phishing” and SIM swapping tactics to compromise the individual’s exchange account and authorize large withdrawals that can’t be clawed back.
+
+Social engineering is another common tactic in the digital realm. Scareware / fake airdrops / malicious text messages and emails will try to trick you into entering sensitive information so that attackers can steal your money.
+
+How to prepare: The first layer of security should always be privacy. Don’t share intimate financial details with others. In the same way, it’s dangerous to go around flashing cash publicly, it’s a bad idea to talk about your Bitcoin. Most people are easy to find.
+
+As for social engineering: don’t trust, verify. These threats are nuanced, so exercise caution when browsing the web, reading unsolicited messages, and dealing with third parties in general.
+Government Seizure
+
+Lopp Rank: 3rd
+
+Poll Rank: 2nd (27.1%)
+
+At this point, government response is a mostly theoretical attack vector, unless you’re a political dissident or operating outside the bounds of your local laws. There have been seizures as the result of criminal investigation, and nations have banned certain activities. However, I’m not aware of any government confiscations of Bitcoin on a widespread basis.
+
+Make no mistake: government action is a threat worth considering, especially from a historical point of view. Just look to gold for a comparison. In 1933, President Franklin Roosevelt signed Executive Order 6102 forbidding gold possession above a certain threshold. Prohibition proved ineffective and the rule was repealed in 1974.
+
+It’s impractical to enforce an outright ban on owning Bitcoin, but that doesn’t preclude a desperate nation-state from trying. This threat could be a higher priority in the future because if it happens someday, many people will be affected unlike other individualized threats. Government action is like a dormant volcano that could erupt one day. Keep an eye on it.
+
+How to prepare: If a government were to take action against Bitcoin, they would first need to determine who has it. If you buy Bitcoin from a regulated exchange, it’s safe to assume you’re a known entity. This process can be bypassed by purchasing Bitcoin on a peer-to-peer basis, but that has its own risks, too.
+
+If you want to prevent confiscation, make sure you don’t have all your private keys in one place or in a setup that could be physically compromised.
+Physical Theft/Attack
+
+Lopp Rank: 4th
+
+Poll Rank: 4th (13.4%)
+
+Physical attacks are fairly correlated with price trends. When Bitcoin is on the rise, it makes headlines in the media, which grab criminals’ attention. Physical attacks get significant media exposure, which makes them prominent in the public eye.
+
+In reality, physical attacks are rare. Today, most physical attacks target people trading Bitcoin in person, a high-risk situation. Outside these rendezvouses, attackers tend to target public figures and people who flaunt their wealth. A physical attacker’s payday isn’t very high from the average person, so physical attacks are often premeditated to ensure the target is high value.
+
+How to prepare: If you purchase Bitcoin in person, be sure to properly vet counterparties. Don’t just meet random people in a secluded area. Be careful who you trust and try to not attract unnecessary attention.
+Surprise Threat: Inheritance Planning
+
+Many security threats aren’t the result of attack at all. A simple oversight like poor inheritance planning can be just as devastating.
+
+There have been numerous cases where families and heirs have been unable to locate or transfer Bitcoin. Usually, this is the result of poor communication. Exceedingly complex security plans can do heirs a disservice.
+
+Unlike every other threat on this list, inheritance is a certainty. Bitcoin is designed to last forever. If you believe in Bitcoin as a long-term store of value, develop an inheritance plan even if you plan to live for a long time. Your next of kin will thank you.
+
+As you evaluate your own unique security risk, try to stay conscious of all threats, not just one. With time and practice, you’ll come to recognize threats that aren’t even on this list. Combine self-custody with self-discipline and your Bitcoin will have better than bank grade security.
+Follow me on Twitter. 
+Jameson Lopp
+Jameson Lopp
+
+Jameson Lopp is the CTO & cofounder of Casa, a bitcoin storage company. A Cypherpunk whose goal is to...
+
+    Print
+    Reprints & Permissions
+
+We’d like to send you notifications.
+To get the latest from Forbes select “Sign up” and then “Allow”
+
